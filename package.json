@@ -1,0 +1,25 @@
+{
+  "name": "express-static-hosting",
+  "author": "Prudhvi Raj",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "static",
+    "server",
+    "simple",
+    "express"
+  ],
+  "engines": {
+    "node": ">=0.10.26"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "compression": "1.7.4",
+    "body-parser": "1.19.0",
+    "method-override": "3.0.0",
+    "morgan": "1.10.0",
+    "response-time": "2.3.2"
+  }
+}
